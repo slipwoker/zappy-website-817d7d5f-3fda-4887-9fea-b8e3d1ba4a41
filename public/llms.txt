@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+רוצה שהסרטונים שלך יקבלו יותר צפיות? Amitos Designs מעצבת טאמבניילים ליוטיוב שבולטים בפיד ומביאים קליקים אמיתיים. תתחיל להצמיח את הערוץ שלך היום.
+
+### תיק עבודות
+https://example.com/portfolio
+גלה את תיק העבודות של Amitos Designs ותראה איך טאמבניילים מקצועיים שינו ערוצי יוטיוב ישראלים. כל עיצוב מספר סיפור — בוא תתרשם בעצמך.
+
+### אודות
+https://example.com/about
+הכר את המוח היצירתי מאחורי Amitos Designs — מעצב טאמבניילים שמבין יוטיוברים ישראלים לעומק ויודע בדיוק מה גורם לצופים ללחוץ על הסרטון שלך.
+
+### צור קשר
+https://example.com/contact
+כמה עולה עיצוב טאמבניייל? מה התהליך? צור קשר עם Amitos Designs עכשיו דרך מספר ערוצים ותקבל הצעת מחיר מהירה לטאמבניילים שיעיפו את הערוץ שלך קדימה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
