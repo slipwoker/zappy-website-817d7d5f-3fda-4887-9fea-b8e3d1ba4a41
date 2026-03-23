@@ -8218,6 +8218,15 @@ body.accessibility-widget-visible ._access-menu {
   }
 }
 
+.home-hero-section h1,
+.hero-section h1,
+section:first-of-type h1 {
+  font-size: clamp(4rem, 12vw, 14rem);
+  line-height: 1;
+  white-space: nowrap;
+  letter-spacing: -0.02em;
+}
+
 /* ========== RTL MOBILE NAVBAR FIX (zappy-rtl-mobile-fix) ========== */
 /* High-specificity rules to ensure RTL positioning wins over any [lang="en"] conflicts */
 /* For RTL sites: hamburger on RIGHT, phone on LEFT (mirror of LTR layout) */
